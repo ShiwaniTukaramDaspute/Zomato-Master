@@ -21,3 +21,4 @@ const HomeLayoutHOC = ({component: Component, ...rest}) => {
 };
 
 export default HomeLayoutHOC;
+
